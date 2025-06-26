@@ -12,12 +12,10 @@
 
 ## 👨🏽‍💻 **Sobre Mim**
 
-
 - **📚 Formação Graduanda:** Graduando em Análise e Desenvolvimento de Sistemas. (2/5)
 - **🚀 Objetivos:** Desenvolver continuamente minhas habilidades técnicas e contribuir ativamente com a comunidade, promovendo a troca de conhecimento e o crescimento coletivo.
 
 ---
-
 ## 🛠 **Tecnologias & Ferramentas**
 
 ### **Aplicações**
@@ -31,7 +29,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+## 🎯 **Tecnologias Futuras**
+<div style = "display: inline_block">
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="Sql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div><br/>
 ---
 
 ## 🌐 **Conecte-se Comigo**
@@ -45,3 +49,6 @@
 
 ---
 
+![jeovanbsp GitHub stats](https://github-readme-stats.vercel.app/api?username=jeovanbsp&show_icons=true&theme=dracula)
+
+---
