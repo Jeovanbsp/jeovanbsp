@@ -12,7 +12,7 @@
 
 ## 👨🏽‍💻 **Sobre Mim**
 
-- **📚 Formação Graduanda:** Graduando em Análise e Desenvolvimento de Sistemas. (2/5)
+- **📚 Formação:** Graduando em Análise e Desenvolvimento de Sistemas. (2/5)
 - **🚀 Objetivos:** Desenvolver continuamente minhas habilidades técnicas e contribuir ativamente com a comunidade, promovendo a troca de conhecimento e o crescimento coletivo.
 
 ---
